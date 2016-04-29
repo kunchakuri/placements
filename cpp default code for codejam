@@ -1,0 +1,32 @@
+
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long
+#define mp make_pair
+#define pb push_back
+#define lim ((ll)(1e5)+5)
+#define F first
+#define S second
+#define D double
+#define mod ((ll)(1e9)+7)
+#define pq priority_queue
+#define vl vector<ll>
+#define pll pair<ll,ll>
+#define vll vector<pll>
+#define inf ((ll)(1e17)+7)
+ll zero=0;
+ll one=1;
+
+int main()
+{
+ll t,temp;
+ll caseno=1;
+scanf("%lld\n",&t);
+while(t--)
+{
+ printf("Case #%lld:",caseno);
+
+printf("\n");
+caseno++;
+}
+return 0;}
